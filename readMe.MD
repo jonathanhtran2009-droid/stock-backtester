@@ -24,3 +24,13 @@ A Python tool that backtests the Golden Cross / Death Cross moving average strat
 4. Enter one or more stock tickers when prompted (e.g. `AAPL`, `TSLA`)
 5. Type `STOP` when finished entering tickers
 6. View printed performance stats and interactive charts for each ticker
+
+## Sample Output
+```
+=== AAPL ===
+Buy & Hold: 226.17128562927246
+Strategy: 66.37339782714844
+Win Rate: 50.0%
+Verdict: Hold the Stock
+Sharpe: 0.30
+```
